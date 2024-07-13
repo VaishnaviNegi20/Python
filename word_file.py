@@ -1,0 +1,11 @@
+words= ["apple", "banana", "orange", "lemon", "grape", "strawberry", "pineapple", "watermelon", "blueberry", "mango",
+    "kiwi", "peach", "pear", "cherry", "raspberry", "avocado", "tomato", "cucumber", "carrot", "potato",
+    "broccoli", "spinach", "lettuce", "onion", "garlic", "bell pepper", "cauliflower", "celery", "eggplant", "zucchini",
+    "pumpkin", "radish", "asparagus", "artichoke", "beetroot", "brussels sprout", "cabbage", "corn", "pea",
+    "green bean", "sweet potato", "squash", "turnip", "grapefruit", "cantaloupe", "honeydew", "cranberry", "plum",
+    "fig", "apricot", "papaya", "lychee", "guava", "pomegranate", "nectarine", "passionfruit", "persimmon",
+    "tangerine", "kumquat", "starfruit", "jackfruit", "elderberry", "blackberry", "gooseberry", "mulberry",
+    "boysenberry", "raisin", "date", "prune", "olive", "coconut", "pine nut", "almond", "walnut", "pistachio",
+    "cashew", "chestnut", "hazelnut", "macadamia", "sunflower", "rose", "lily", "tulip", "daisy", "orchid",
+    "daffodil", "hyacinth", "peony", "magnolia", "jasmine", "lavender", "violet", "marigold", "petunia",
+    "carnation", "geranium", "sunflower", "iris", "snapdragon", "zinnia"]

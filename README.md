@@ -1,2 +1,2 @@
 # Python
-This repo includes the python codes.
+This repo contains the python codes.
